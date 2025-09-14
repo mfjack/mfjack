@@ -1,4 +1,4 @@
-# Oi! Me chamo Marlon, mas pode me chamar de Jack 😎.
+## Oi! Me chamo Marlon, mas pode me chamar de Jack 😎.
 
 ### 🌟 Sobre mim
 
@@ -32,7 +32,8 @@ Para mim, programar não é apenas escrever código: é resolver problemas, simp
 **Metodologias:** Agile (Scrum, Kanban), Clean Code, UX/UI, Mobile-first e Responsividade.
 
 **Soft Skills:** Comunicação, Trabalho em equipe, Proatividade, Organização, Resolução de problemas e Vontade de aprender.
-## 🔗 Links
+
+### 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfjack/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/byjackdev/?next=%2F)
@@ -49,8 +50,6 @@ Para mim, programar não é apenas escrever código: é resolver problemas, simp
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </div>
 
----
-
 ### 🖥️ Backend
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -58,8 +57,6 @@ Para mim, programar não é apenas escrever código: é resolver problemas, simp
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
 </div>
-
----
 
 ### 🗄️ Banco de Dados
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
