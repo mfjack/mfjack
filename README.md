@@ -6,7 +6,7 @@ Sou Desenvolvedor Full-Stack, com uma forte ênfase em Front-end, onde realmente
 
 Quando não estou programando, gosto de curtir minha família 👨‍👩‍👧, pegar umas ondas 🌊, sofrer (e comemorar) como Flamenguista ❤️🖤 e relaxar em um barzinho com os amigos 🍻 — porque a vida também precisa de leveza.
 
-🚀 Planos e Metas
+#### 🚀 Planos e Metas
 
 Me aprofundar cada vez mais em React, Next.js e TypeScript para elevar a qualidade dos projetos que desenvolvo.
 
@@ -14,7 +14,7 @@ Expandir minha atuação Full-Stack, explorando mais Node.js, .NET e bancos de d
 
 Concluir minha faculdade, não só pelo diploma, mas pela sede de aprendizado e evolução constante.
 
-💡 Minha visão
+####💡 Minha visão
 
 Para mim, programar não é apenas escrever código: é resolver problemas, simplificar a vida das pessoas e criar experiências que fazem diferença. É algo que faço por prazer, curiosidade e paixão.
 
