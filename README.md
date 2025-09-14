@@ -1,6 +1,6 @@
-## 🌟 Sobre mim
+# Oi! Me chamo Marlon, mas pode me chamar de Jack 😎.
 
-Oi! Me chamo Marlon, mas pode me chamar de Jack 😎.
+### 🌟 Sobre mim
 
 Sou Desenvolvedor Full-Stack, com uma forte ênfase em Front-end, onde realmente me divirto criando interfaces que não só funcionam bem, mas também entregam uma experiência incrível para quem usa.
 
@@ -20,7 +20,7 @@ Para mim, programar não é apenas escrever código: é resolver problemas, simp
 
 
 
-## 🛠 Habilidades
+### 🛠 Habilidades
 **Frontend:** React, Next.js, TypeScript, JavaScript ES6+, HTML5, CSS3, Tailwind CSS, Styled Components, SEO, Acessibilidade e Core Web Vitals.
 
 **Backend & Bancos de Dados:** Node.js, Express.js, C#, .NET, PostgreSQL, MySQL, MongoDB, Supabase, Prisma ORM e Drizzle ORM.
@@ -37,7 +37,7 @@ Para mim, programar não é apenas escrever código: é resolver problemas, simp
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfjack/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/byjackdev/?next=%2F)
 
-# 🖥️ Frontend
+### 🖥️ Frontend
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
@@ -51,7 +51,7 @@ Para mim, programar não é apenas escrever código: é resolver problemas, simp
 
 ---
 
-## 🖥️ Backend
+### 🖥️ Backend
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
@@ -61,7 +61,7 @@ Para mim, programar não é apenas escrever código: é resolver problemas, simp
 
 ---
 
-## 🗄️ Banco de Dados
+### 🗄️ Banco de Dados
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -71,7 +71,7 @@ Para mim, programar não é apenas escrever código: é resolver problemas, simp
 
 ---
 
-## 🛠️ Ferramentas
+### 🛠️ Ferramentas
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
