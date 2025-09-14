@@ -14,7 +14,7 @@ Expandir minha atuação Full-Stack, explorando mais Node.js, .NET e bancos de d
 
 Concluir minha faculdade, não só pelo diploma, mas pela sede de aprendizado e evolução constante.
 
-####💡 Minha visão
+#### 💡 Minha visão
 
 Para mim, programar não é apenas escrever código: é resolver problemas, simplificar a vida das pessoas e criar experiências que fazem diferença. É algo que faço por prazer, curiosidade e paixão.
 
